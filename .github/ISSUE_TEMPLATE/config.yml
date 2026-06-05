@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question / discuss
+    url: https://github.com/g4d-nlt-cega-3ie/open-data/discussions
+    about: For questions, ideas, and reviewing submissions.
+  - name: Geo4Dev website
+    url: https://geo4dev.nltgis.ai
+    about: Browse the library, map, and how to contribute.
